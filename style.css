@@ -1,0 +1,33 @@
+body {
+    background-color: #000;
+    color: #eb0a24;
+    text-align: center;
+}
+
+#canvas {
+    background-color: #A7D947;
+}
+
+.board {
+    width: 400px;
+    height: 400px;
+    background-color: #5a9608;
+    padding: 10px;
+}
+
+#score {
+    width: 120px;
+    height: 50px;
+    background-color: #A7D947;
+    border: 10px solid #5a9608;
+    color: #000;
+    font-size: 24px;
+    padding-top: 15px;
+}
+
+.play {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
