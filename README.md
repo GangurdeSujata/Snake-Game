@@ -2,7 +2,7 @@
 
 _The classsic Snake Game on plain Javascript._
 
-View live on <a href="https://marialobillo.github.io/snake-game/">here</a>.
+View live on <a href="https://sujata7219-snakegame.netlify.app/">here</a>.
 
 <br>
 
