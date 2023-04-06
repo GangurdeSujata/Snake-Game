@@ -2,7 +2,7 @@
 
 _The classsic Snake Game on plain Javascript._
 
-View live on <a href=https://sujata7219-snakegame.netlify.app/"> Play Game</a>.
+View live on <a href=https:https://sujata7219-snakegame.netlify.app/"> Play Game</a>.
 
 <br>
 
